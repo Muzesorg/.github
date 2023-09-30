@@ -1,4 +1,14 @@
-## Hi there 👋
+## MUZES and our technology
+
+We've built our app with the FARM stack integrated with AWS managed services.
+FARM includes 
+FastAPI
+React
+MongoDB
+
+Our backend is python with FastAPI as our API framework.
+React is the framework for our frontend.
+And for now, our main database is MongoDB.
 
 <!--
 
